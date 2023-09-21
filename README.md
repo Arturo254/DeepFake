@@ -1,30 +1,29 @@
-FaceFusion
+DeepFake 
 ==========
 
-> Next generation face swapper and enhancer.
+ > POR FAVOR USARLO CON RESPONSABILIDAD
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 Preview
 -------
+![IMG](https://github.com/Arturo254/DeepFake/assets/87346871/f34b17a3-a2ea-4f39-a568-9e61e92abc58)
 
-![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
 
 
-Installation
+Instalación
 ------------
 
-Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://join.facefusion.io) community that will guide you to install FaceFusion.
+Ten en cuenta que la instalación requiere habilidades técnicas y no es para principiantes. Por favor, no abras problemas relacionados con la plataforma y la instalación en GitHub. Tenemos una comunidad muy útil en [Discord](https://join.facefusion.io) que te guiará en la instalación de FaceFusion.
 
-Read the [installation](https://docs.facefusion.io/installation) now.
+Lee la [instalación](https://docs.facefusion.io/installation) ahora.
 
 
-Usage
------
+Uso
+----
 
-Run the command:
+Ejecuta el siguiente comando:
 
 ```
 python run.py [options]
@@ -63,15 +62,9 @@ python run.py [options]
 
 Disclaimer
 ----------
+Reconocemos el potencial éticamente cuestionable los DeepFakes y estamos firmemente comprometidos a establecer salvaguardias contra su mal uso. Este programa ha sido diseñado para abstenerse de procesar contenido inapropiado, como desnudos, contenido gráfico y material sensible.
 
-We acknowledge the unethical potential of FaceFusion and are resolutely dedicated to establishing safeguards against such misuse. This program has been engineered to abstain from processing inappropriate content such as nudity, graphic content and sensitive material.
+Es importante destacar que mantenemos una postura firme en contra de cualquier tipo de contenido pornográfico y no colaboramos con ningún sitio web que promueva el uso no autorizado de nuestro software.
 
-It is important to note that we maintain a strong stance against any type of pornographic nature and do not collaborate with any websites promoting the unauthorized use of our software.
+Los usuarios que busquen participar en tales actividades enfrentarán consecuencias, incluyendo ser prohibidos de nuestra comunidad. Nos reservamos el derecho de informar a los desarrolladores en GitHub que distribuyan bifurcaciones no bloqueadas de nuestro software en cualquier momento.
 
-Users who seek to engage in such activities will face consequences, including being banned from our community. We reserve the right to report developers on GitHub who distribute unlocked forks of our software at any time.
-
-
-Documentation
--------------
-
-Read the [documentation](https://docs.facefusion.io) for a deep dive.
